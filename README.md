@@ -1,6 +1,6 @@
 # Employee Management System
 
-Note: start with : npm start & install : npm i 
+Note: start with : npm start & install : npm install
 
 -------------
 
