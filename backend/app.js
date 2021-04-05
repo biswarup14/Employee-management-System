@@ -1560,7 +1560,7 @@ app.put("/api/company/:id", verifyHR, (req, res) => {
 /////////////////////Employee
 
 app.get("/api/employee", verifyHR, (req, res) => {
-  // {path: 'projects', populate: {path: 'portals'}}
+  //{path: 'projects', populate: {path: 'portals'}}
   Employee.find()
     // .populate({ path: "city", populate: { path: "state" } ,populate: { populate: { path: "country" } } })
     .populate({
