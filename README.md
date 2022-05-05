@@ -40,3 +40,14 @@ The different part or module of this project is as follows:
 - Mobile-Friendly UI
 
 -------------
+![image](https://user-images.githubusercontent.com/60690698/166950000-ede8ba88-af25-4e5d-9c70-3e3e000b6f84.png)
+
+Admin Home Page
+
+![image](https://user-images.githubusercontent.com/60690698/166950118-90f60a74-17e2-44db-bf5a-d0116c4c171f.png)
+
+HR Home Page
+
+![image](https://user-images.githubusercontent.com/60690698/166950222-d73df160-ef37-42b9-8377-174ae058eb28.png)
+
+
